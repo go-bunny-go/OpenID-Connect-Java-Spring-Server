@@ -34,7 +34,7 @@
 		<property name="issuer" value="http://localhost:8080/openid-connect-server-webapp/" />
 		
 		<!-- This property is a URL pointing to a logo image 24px high to be used in the top bar -->
- 		<property name="logoImageUrl" value="resources/images/openid_connect_small.png" />
+ 		<property name="logoImageUrl" value="resources/images/mit_oidc_small.png" />
  		
  		<!-- This property sets the display name of the server, displayed in the topbar and page title -->
  		<property name="topbarTitle" value="OpenID Connect Server" />
